@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/liggitt/tabwriter"
+	. "github.com/Hunted-Labs/tabwriter"
 )
 
 type buffer struct {
